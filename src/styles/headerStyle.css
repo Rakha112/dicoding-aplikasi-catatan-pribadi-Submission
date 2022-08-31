@@ -1,0 +1,42 @@
+.catatan-app__header {
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 0.1rem solid #1c6cce;
+}
+
+.catatan-app__header-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: space-between;
+  max-width: 80rem;
+}
+
+h1{
+  color: #1c6cce;
+}
+
+.plus-icon {
+  width: 1rem;
+  margin-right: 0.4rem;
+}
+
+.catatan-buat {
+  display: flex;
+  align-items: center;
+  background-color: #1c6cce;
+  color: white;
+  border: none;
+  padding: 0 0.5rem 0 0.5rem;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  cursor: pointer; 
+  border: 0.2rem solid #1c6cce;
+  transition: all 0.5s ease;
+}
+
+.catatan-buat:hover {
+  box-shadow: 0px 10px 13px -7px #1c6cce;
+  transform: translateY(-3px);
+  transition: all 0.5s ease;
+}

@@ -1,0 +1,13 @@
+.catetan-app__body {
+  margin-top: 1rem;
+  padding: 1rem;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+.catetan-app__judul {
+  margin: 2rem 0;
+}
+
+.catatan-list__kosong {
+  text-align: center;
+}

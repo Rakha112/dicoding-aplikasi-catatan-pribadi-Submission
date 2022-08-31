@@ -1,0 +1,19 @@
+.catatan-cari__container {
+  display: flex;
+}
+
+.catatan-cari {
+  width: 50rem; 
+  font-family: 'Inter', sans-serif;
+  padding: 0.5rem;
+  margin: 0 auto ;
+  border-radius: 10px;
+  border: solid 1px #1c6cce;
+}
+
+.search-icon {
+  left: 100px;
+  position: absolute;
+  width: 1.2rem;
+  height: 1.2rem;
+}

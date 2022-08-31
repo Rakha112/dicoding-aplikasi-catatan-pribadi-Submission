@@ -1,0 +1,31 @@
+.catatan-item {
+  border: 1px solid #1c6cce;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.catatan-conten {
+  padding: 1rem;
+}
+
+.catatan-item__judul {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 4px;
+}
+
+.catatan-item__tanggal {
+  font-size: 12px;
+}
+
+.catatan-item__isi {
+  font-size: 14px;
+}
+
+.catetin-item__button-container {
+  padding: 0 1rem;
+}
