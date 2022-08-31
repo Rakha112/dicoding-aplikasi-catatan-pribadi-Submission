@@ -6,19 +6,19 @@ Aplikasi ini merupakan aplikasi yang dibuat untuk memenuhi submission dari Dicod
 
 Tampilan Awal
 
-![Tampilan Awal](https://github.com/Rakha112/react-native-custom-switch/tree/main/Demo/TampilanAwal.png)
+![Tampilan Awal](https://github.com/Rakha112/dicoding-aplikasi-catatan-pribadi-submission/blob/main/Demo/TampilanAwal.png)
 
 Tampilan Tambah Catatan (Ketika Tombol Buat Catatan Di Klik)
 
-![Tambah](https://github.com/Rakha112/react-native-custom-switch/tree/main/Demo/TambahCatatan.png)
+![Tambah](https://github.com/Rakha112/dicoding-aplikasi-catatan-pribadi-submission/blob/main/Demo/TambahCatatan.png)
 
 Tampilan Catatan Tersimpan
 
-![Tersimpan](https://github.com/Rakha112/react-native-custom-switch/tree/main/Demo/Archived.png)
+![Tersimpan](https://github.com/Rakha112/dicoding-aplikasi-catatan-pribadi-submission/blob/main/Demo/Archived.png)
 
 Tampilan Pencarian Catatan
 
-![Pencarian](https://github.com/Rakha112/react-native-custom-switch/tree/main/Demo/Pencarian.png)
+![Pencarian](https://github.com/Rakha112/dicoding-aplikasi-catatan-pribadi-submission/blob/main/Demo/Pencarian.png)
 
 ## Run Locally
 
